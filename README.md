@@ -75,4 +75,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 # Connect to Mongo!
-mongo "mongodb+srv://fitnessappcluster-zf0xz.mongodb.net/test" --username rasmi
